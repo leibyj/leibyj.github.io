@@ -1,12 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 About Me: 
 ======
 Hello! I am a Ph.D. Candidate in the [Genomics and Computational Biology graduate group](https://www.med.upenn.edu/gcb/) at the [University of Pennsylvania](https://www.upenn.edu) [Perelman School of Medicine](https://www.med.upenn.edu), working in Professor [Dokyoon Kim](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9240045)'s [Integrative 'Omics and Biomedical Informatics Lab](https://www.biomedinfolab.com).
