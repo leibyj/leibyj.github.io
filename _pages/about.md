@@ -19,4 +19,4 @@ My general research interests include:
 
 My thesis work focuses on data-driven approaches for determining metabolic abnormality risk using genetics and computed tomography scans. Additionally, I am interested in histopathological analysis and survival prediction. 
 
-Please free to connect, links to contact info are over there <- . 
+Refer [here](https://scholar.google.com/citations?hl=en&user=3k9R9kUAAAAJ&view_op=list_works&sortby=pubdate) for a current list of publications, and please feel free to [connect](https://www.linkedin.com/in/jacobleiby/). 
