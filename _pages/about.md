@@ -12,4 +12,4 @@ My general research interests include:
 
 My thesis work focuses on data-driven approaches for determining metabolic abnormality risk using genetics and computed tomography scans. Additionally, I am interested in histopathological analysis and survival prediction. 
 
-Please free to connect, all my links are over there <- . 
+Please free to connect, links to contact info are over there <- . 
