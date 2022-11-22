@@ -17,6 +17,6 @@ My general research interests include:
 * Multi-modal data integration
 
 
-My thesis work focuses on data-driven approaches for determining risk and occurrence of metabolic abnormality using genetics and computed tomography scans. Additionally, I am interested in histopathological analysis and survival prediction. 
+My thesis work focuses on data-driven approaches for determining risk and occurrence of metabolic abnormality using genetics and computed tomography scans. Additionally, I am interested in histopathological analysis for precision medicine and survival prediction. 
 
 Refer [here](https://scholar.google.com/citations?hl=en&user=3k9R9kUAAAAJ&view_op=list_works&sortby=pubdate) for a current list of publications, and please feel free to [connect](https://www.linkedin.com/in/jacobleiby/). 
