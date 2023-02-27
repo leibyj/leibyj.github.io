@@ -17,7 +17,7 @@ My general research interests include:
 * Multi-modal data integration
 
 
-My thesis work focuses on the development and application of deep learning approaches for risk prediction and precision medicine using clinical imaging data. My thesis topics are: data-driven approaches for determining risk and occurrence of metabolic abnormality using computed tomography scans, and biomarker prediction from histological images for precision medicine tasks in cancer.
+My thesis work focuses on the development and application of deep learning approaches for risk prediction and precision medicine using clinical imaging data. Specifically, my thesis topics are: data-driven approaches for determining risk and occurrence of metabolic abnormality using computed tomography scans, and biomarker prediction from histological images for precision medicine tasks in cancer.
 
 
 Refer [here](https://scholar.google.com/citations?hl=en&user=3k9R9kUAAAAJ&view_op=list_works&sortby=pubdate) for a current list of publications, and please feel free to [connect](https://www.linkedin.com/in/jacobleiby/). 
