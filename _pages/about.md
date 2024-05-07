@@ -11,7 +11,6 @@ Hello! I am a Ph.D. Candidate in the [Genomics and Computational Biology graduat
 
 My general research interests include:
 * Biomedical image analysis
-* Interpretable machine learning 
 * Precision medicine and risk prediction
 * Translational modeling 
 * Multi-modal data integration
